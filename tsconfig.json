@@ -19,6 +19,8 @@
     // "Go to Definition" in VSCode
     "declarationMap": true,
     "strict": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "types": ["node"],
+    "moduleResolution":"Node"
   },
 }
