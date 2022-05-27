@@ -3,6 +3,6 @@ const sumTwo = (arg1: number, arg2: number): number => {
   return arg1 + arg2;
 }
 
-module.exports = {
+export {
   sumTwo
-};
+}
